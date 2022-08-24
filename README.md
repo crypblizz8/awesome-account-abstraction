@@ -7,10 +7,13 @@ Ethereum Accounts
 - https://ethereum.org/en/developers/docs/accounts/
 
 What is Account Abstraction
-- Status Blog https://our.status.im/account-abstraction-eip-2938/
+- [Status Blog](https://our.status.im/account-abstraction-eip-2938/)
+- [The History and Future of Account Abstraction](https://medium.com/nethermind-eth/the-history-and-future-of-account-abstraction-10cb097ebdc8)
 
-Current Landscape
+Current Landscape / Thoughts
 - https://mirror.xyz/plusminushalf.eth/MIThq8Ford5O3b0hDA4LR_tsRteDfazRfpVQXOR3Euk
+- https://hackmd.io/@s0lness/BJUb16Yo9
+
 
 Account Abstraction (Starkware)
 - X
@@ -21,7 +24,7 @@ Talks / Videos.
 - https://www.youtube.com/watch?v=LdaoBzwHFkU&ab_channel=ETHDubai 
 
 Ethereum Improvement Processes (EIPs)
-- https://eips.ethereum.org/EIPS/eip-4337
+- [EIP-4337: Account Abstraction via Entry Point Contract specification](https://eips.ethereum.org/EIPS/eip-4337)
 - https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a 
 
 Technical
@@ -41,9 +44,9 @@ Builds / Examples
 - [ ]
 - [ ]
 
-Ideas
-- [ ]
-- [ ]
+Ideas / Possibitilies
+- [ ] Wallet sponsors first 2 transactions for new user 
+- [ ] FaceId sign your message. 
 - [ ]
 - [ ]
 - [ ]
